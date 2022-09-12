@@ -1,19 +1,23 @@
+
 body{
     background-color: #E5E5E5;
     color: #78363F;
 }
 h1{
     margin-top: 0;
+    
 }
 form{
     margin-right: 25%;
     margin-left: 25%;
 }
+
 .header{
 
     background-color: white;
     margin-top: 0px;
    
+
     padding: 25px;
     text-align: center;
 }
